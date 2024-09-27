@@ -14,3 +14,12 @@ This project analyzes HelloTalk app reviews to extract insights on user experien
     - HelloTalk app reviews collected from the Google Play Store
 - **Results**
     - The results showed that the XGBoost algorithm, when combined with topics and emotions, achieved the highest accuracy, recall, and F1 score. In addition, the analysis revealed significant topics related to language learning and community interaction, while emotions such as 'admiration' and 'annoyance' consistently emerged as key factors in user feedback.
+
+
+File Information:
+
+📎 File 1: "hellotalk.csv" --> Original data
+📎 File 2: "hellotalk_cleaned_data.csv" --> Cleaned version of original Data
+📎 File 3: "hellotalk_cleaning+LDA.ipynb" --> Data cleaning process + performing LDA
+📎 File 4: "hellotalk_NRC_GoEmotions.ipynb" --> Emotion analysis using NRC and Go Emotions
+
