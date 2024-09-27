@@ -18,7 +18,7 @@ This project analyzes HelloTalk app reviews to extract insights on user experien
 
 File Information:
 
-📎 File 1: "hellotalk.csv" --> Original data
+📎 File 1: "hellotalk.csv" --> Original data \n
 📎 File 2: "hellotalk_cleaned_data.csv" --> Cleaned version of original Data
 📎 File 3: "hellotalk_cleaning+LDA.ipynb" --> Data cleaning process + performing LDA
 📎 File 4: "hellotalk_NRC_GoEmotions.ipynb" --> Emotion analysis using NRC and Go Emotions
