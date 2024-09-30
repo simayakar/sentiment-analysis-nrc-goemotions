@@ -1,6 +1,9 @@
 # sentiment-analysis-nrc-goemotions
 Sentiment Analysis on “HelloTalk” App Review Data with NRC Emotion Lexicon and GoEmotions Dataset
 
+![_Language Techniques Presentation Graphic Notepad Pastel Style (1)](https://github.com/user-attachments/assets/4d76a5d3-c56b-4476-b58f-5a89ea428b25)
+
+
 **About Project:**
 This project analyzes HelloTalk app reviews to extract insights on user experiences and emotions. We applied topic modeling and emotion analysis, and XGBoost outperformed other sentiment models in accuracy, recall, and F1 score. Key findings highlight topics on language learning and community, with emotions like 'admiration' and 'annoyance' playing a significant role.
 
